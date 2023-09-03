@@ -1,1 +1,1 @@
-Simple Image Resizer
+# Simple Image Resizer
